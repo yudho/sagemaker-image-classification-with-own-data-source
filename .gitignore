@@ -1,3 +1,6 @@
-data/
-test-data/
+input-images/
+test-images/
+__*
+__*/
+*zip
 .ipynb*
