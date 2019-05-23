@@ -13,6 +13,8 @@ In order to use this, follow these steps:
 
 This is how you can use Caltech dataset
 Run these lines, line by line in Jupyter Notebook
+
+
 !pwd
 
 !curl -o /home/ec2-user/SageMaker/sagemaker-image-classification-with-own-data-source/caltech.tar.gz http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz 
