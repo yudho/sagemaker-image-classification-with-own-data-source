@@ -19,4 +19,4 @@ Run these lines, line by line in Jupyter Notebook
 
 !curl -o /home/ec2-user/SageMaker/sagemaker-image-classification-with-own-data-source/caltech.tar.gz http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz 
 
-!tar -xvzf caltech
+!tar -xvzf caltech.tar.gz
